@@ -1,0 +1,1 @@
+date: 2022-09-08 14:01:20.361166, name: fun_func, arguments: 5 5 , returns: 25 

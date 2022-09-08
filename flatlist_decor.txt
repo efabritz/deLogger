@@ -1,0 +1,1 @@
+date: 2022-09-08 14:01:20.361554, name: flat_generator, arguments: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]] , returns: <generator object flat_generator at 0x7f8f63e176d0> 
