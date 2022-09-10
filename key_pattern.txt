@@ -1,0 +1,1 @@
+date: 2022-09-10 10:51:45.346877, name: set_key_words_pattern, arguments: , returns: дизайн|фото|web|python 
